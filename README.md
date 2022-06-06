@@ -70,3 +70,34 @@ Obtain the variant number and initial data from the teacher
 laboratory work. To study the ways and means of organizing cyclic
 programs using the command system of the base computer (Appendix B, clause 1.7).
 Restore the text of the specified version of the program. Write a description of the program.
+
+## Laboratory work #4. Execution of program complex.
+
+**Purpose:**
+
+to study the ways of communication between software modules,
+commands for calling a subroutine and examining the order of operation
+basic computer when executing a complex of interconnected programs.
+
+**Task:** 
+
+According to the version issued by the teacher, restore the text
+a given version of the program and subprogram (software complex),
+determine their purpose and write a description, define the area
+representations and range of valid values for the original data and
+subroutine return values, trace the program complex.
+
+**Preparing for work:**
+
+Obtain the variant number and initial data from the teacher
+laboratory work. Learn how to communicate between software modules and
+instructions for accessing a subroutine in the base computer (Appendix B, clause 1.8).
+Restore the text of a given version of the software package, compose it
+description, draw a graph of the function that is evaluated in the subroutine.
+
+**Work order:** 
+
+Obtain access to laboratory work,
+presenting the prepared materials to the teacher. Save to base memory
+computer a given version of the software package and fill in the tracing table,
+performing this complex on commands. Sign the trace table!
