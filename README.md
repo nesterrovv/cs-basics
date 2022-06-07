@@ -101,3 +101,36 @@ Obtain access to laboratory work,
 presenting the prepared materials to the teacher. Save to base memory
 computer a given version of the software package and fill in the tracing table,
 performing this complex on commands. Sign the trace table!
+
+## Laboratory work #5. Asynchronous data exchange with ED.
+
+**Purpose:**
+
+The study of the organization of the input-output system of the base computer,
+input-output commands and the study of the process of functioning of a computer during the exchange
+data on readiness signals of external devices (ED).
+
+**Task:**
+
+According to the version given by the teacher, develop a program for asynchronous data exchange with an external device. Using the program, enter or output information, using as confirmation
+data signal (button) of ED readiness.
+
+**Preparing for work:**
+
+To study the organization of the input-output system and the input-output commands of the base computer, the organization of asynchronous program-controlled data exchange (Appendix B, items 2.1-2.3, Table B.14). Develop a given program and write its description. Program commands, used variables and character codes must be placed in the specified cells. Encode the string in the specified encoding, as well as in UTF-8 and UTF-16 encodings.
+
+**Work order:**
+
+1. Obtain access to laboratory work by presenting to the teacher
+prepared materials.
+2. Develop and enter a program into the computer, enter data if necessary.
+3. Show the teacher a given working program that performs
+in automatic mode input-output characters.
+ten
+4. In the mode of command-by-command execution of the program, enter (output) the first two
+characters of the given word, filling the trace table.
+5. Switch the computer to automatic program execution mode and enter
+(display) the remaining characters of the given word. Trace table
+sign with the teacher!
+6. Optionally, according to the additional task of the teacher, redo
+input-output device (ED-1...ED-3) on ED-4...ED-10.
