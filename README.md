@@ -70,3 +70,67 @@ Obtain the variant number and initial data from the teacher
 laboratory work. To study the ways and means of organizing cyclic
 programs using the command system of the base computer (Appendix B, clause 1.7).
 Restore the text of the specified version of the program. Write a description of the program.
+
+## Laboratory work #4. Execution of program complex.
+
+**Purpose:**
+
+to study the ways of communication between software modules,
+commands for calling a subroutine and examining the order of operation
+basic computer when executing a complex of interconnected programs.
+
+**Task:** 
+
+According to the version issued by the teacher, restore the text
+a given version of the program and subprogram (software complex),
+determine their purpose and write a description, define the area
+representations and range of valid values for the original data and
+subroutine return values, trace the program complex.
+
+**Preparing for work:**
+
+Obtain the variant number and initial data from the teacher
+laboratory work. Learn how to communicate between software modules and
+instructions for accessing a subroutine in the base computer (Appendix B, clause 1.8).
+Restore the text of a given version of the software package, compose it
+description, draw a graph of the function that is evaluated in the subroutine.
+
+**Work order:** 
+
+Obtain access to laboratory work,
+presenting the prepared materials to the teacher. Save to base memory
+computer a given version of the software package and fill in the tracing table,
+performing this complex on commands. Sign the trace table!
+
+## Laboratory work #5. Asynchronous data exchange with ED.
+
+**Purpose:**
+
+The study of the organization of the input-output system of the base computer,
+input-output commands and the study of the process of functioning of a computer during the exchange
+data on readiness signals of external devices (ED).
+
+**Task:**
+
+According to the version given by the teacher, develop a program for asynchronous data exchange with an external device. Using the program, enter or output information, using as confirmation
+data signal (button) of ED readiness.
+
+**Preparing for work:**
+
+To study the organization of the input-output system and the input-output commands of the base computer, the organization of asynchronous program-controlled data exchange (Appendix B, items 2.1-2.3, Table B.14). Develop a given program and write its description. Program commands, used variables and character codes must be placed in the specified cells. Encode the string in the specified encoding, as well as in UTF-8 and UTF-16 encodings.
+
+**Work order:**
+
+1. Obtain access to laboratory work by presenting to the teacher
+prepared materials.
+2. Develop and enter a program into the computer, enter data if necessary.
+3. Show the teacher a given working program that performs
+in automatic mode input-output characters.
+ten
+4. In the mode of command-by-command execution of the program, enter (output) the first two
+characters of the given word, filling the trace table.
+5. Switch the computer to automatic program execution mode and enter
+(display) the remaining characters of the given word. Trace table
+sign with the teacher!
+6. Optionally, according to the additional task of the teacher, redo
+input-output device (ED-1...ED-3) on ED-4...ED-10.
