@@ -17,7 +17,7 @@ S2:		IN 0x5		;Waiting for even character input
 		BEQ S2		;None - "Spin Loop"
 		IN 0x4		;Output byte to AC
 		OUT 0x6		;Output byte to ED-3
-		SWAB		Move even character to high byte
+		SWAB		;Move even character to high byte
 		OR $MEM		;Match with 1st character
 		ST (ADDR)	;Save to memory with auto-increment links
 		SUB $MEM	;Subtract 1st character
